@@ -1,1 +1,2 @@
-# react-mastery
+# React-Mastery
+Training on React
